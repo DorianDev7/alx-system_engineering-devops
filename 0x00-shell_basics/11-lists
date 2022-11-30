@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . /alx-system_ /boot
+ls -la . .. /boot
