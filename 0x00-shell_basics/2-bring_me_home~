@@ -1,0 +1,6 @@
+#!/bin/bash
+pwd
+cd /
+cd root
+cd ~
+
